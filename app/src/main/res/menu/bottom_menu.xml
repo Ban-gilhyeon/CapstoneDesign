@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/action_homeBtn"
+    android:enabled="true"
+    android:icon="@drawable/home"
+    android:title="홈"/>
+
+    <item android:id="@+id/action_exerciseBtn"
+        android:enabled="true"
+        android:icon="@drawable/exercise"
+        android:title="운동"/>
+
+
+    <item android:id="@+id/action_recordBtn"
+        android:enabled="true"
+        android:icon="@drawable/record"
+        android:title="기록"/>
+
+
+    <item android:id="@+id/action_mypageBtn"
+        android:enabled="true"
+        android:icon="@drawable/mypage"
+        android:title="마이페이지"/>
+
+
+
+</menu>
